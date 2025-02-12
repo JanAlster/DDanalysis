@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -std=c++0x -O3 -DNDEBUG    CMakeFiles/example-001.dir/example-001.cc.o  -o example-001 -rdynamic 

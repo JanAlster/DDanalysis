@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -Wall -std=c++0x -O3 -DNDEBUG   -shared -Wl,-soname,libpopot.so -o libpopot.so CMakeFiles/popot.dir/main.cpp.o 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -Wall -std=c++0x -O3 -DNDEBUG   -shared -Wl,-soname,libPyPopot.so -o libPyPopot.so CMakeFiles/PyPopot.dir/wrapper.cpp.o -lboost_python-py34 
